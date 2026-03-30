@@ -20,7 +20,7 @@ This project is great for Python beginners to practice:
 
 ##  Example
 
-Is this temperature Celsius or Fahrenheit (c/f): c
-Enter the temperature: 25
-The temperature in Fahrenheit is: 77.0°F
+Is this temperature Celsius or Fahrenheit (c/f): c,
+Enter the temperature: 25,
+The temperature in Fahrenheit is: 77.0°F.
 
